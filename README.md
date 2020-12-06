@@ -2,7 +2,7 @@
 
 Name : Jay Prajapati
 
-Class : Btech Data Science [2018-2020]
+Class : Btech Data Science [2018-2022]
 
 Roll No. : J075
 
